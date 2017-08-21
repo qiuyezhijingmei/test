@@ -52,7 +52,6 @@ public User(int id, String name, String sex, int age) {
 }
 public User() {
 	super();
-	// TODO Auto-generated constructor stub
 };
 
 }
