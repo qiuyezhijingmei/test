@@ -49,6 +49,10 @@ public User(int id, String name, String sex, int age) {
 	this.name = name;
 	this.sex = sex;
 	this.age = age;
+}
+public User() {
+	super();
+	// TODO Auto-generated constructor stub
 };
 
 }
